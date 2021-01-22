@@ -1,0 +1,25 @@
+{
+  "name": "tafa-hb",
+  "version": "1.2.1",
+  "description": "A little package the prints some about me information",
+  "main": "index.js",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {
+    "tafa-hb": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmoustaphahoueibib/tafacard.git"
+  },
+  "author": "Houeibib Elmoustapha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmoustaphahoueibib/tafacard.git"
+  },
+  "homepage": "https://github.com/elmoustaphahoueibib/tafacard/npm#readme"
+}
